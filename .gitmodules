@@ -1,0 +1,6 @@
+[submodule "pttbbs"]
+	path = pttbbs
+	url = https://github.com/ptt/pttbbs.git
+[submodule "PttChrome"]
+	path = PttChrome
+	url = https://github.com/robertabcd/PttChrome.git
